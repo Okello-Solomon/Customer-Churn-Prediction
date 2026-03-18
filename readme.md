@@ -1,6 +1,6 @@
 # Customer Churn Prediction Using Bagging Logistic Regression
 
-Live Application: (if deployed via Streamlit, include your link here)
+Live Application: [Customer Churn Prediction](https://customer-churn-prediction-gejdn7bzopuux4djprncx4.streamlit.app/)
 
 <details> <summary><strong>View Project Details</strong></summary>
 
