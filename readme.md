@@ -1,4 +1,4 @@
-# Customer Churn Prediction Using Bagging Logistic Regression
+# Customer Churn Prediction Using Logistic Regression
 
 Live Application: [Customer Churn Prediction](https://customer-churn-prediction-gejdn7bzopuux4djprncx4.streamlit.app/)
 
