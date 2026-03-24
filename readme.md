@@ -47,7 +47,7 @@ Data preprocessing → Feature selection → Model training → Hyperparameter t
 - Logistic Regression weighted by class to further balance the minority class
 
 ## Feature Selection (RFE)
-- Used Recursive Feature Elimination with Logistic Regression to select the top 24 predictive features.
+- Used Recursive Feature Elimination with Logistic Regression to select the top 14 predictive features.
 
 ## Modeling
 - Model: Bagging Logistic Regression
