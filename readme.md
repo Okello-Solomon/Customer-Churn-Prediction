@@ -64,4 +64,6 @@ Feature alignment between training and deployment is strictly enforced: the mode
 
 The pipeline integrates scaling, SMOTE oversampling, and the Bagging classifier, making it suitable for interactive real-time predictions.
 
+## Data Source: [Predict Customer Churn](https://www.kaggle.com/competitions/playground-series-s6e3)
+
 </details>
